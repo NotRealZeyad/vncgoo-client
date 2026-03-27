@@ -44,7 +44,7 @@ var defaultArgs = []string{
 }
 var status = ""
 var server = "vnc.nrz.qzz.io"
-var password = "Client!"
+var password = "Client!123"
 var started = false
 var rate = "18000000"
 
